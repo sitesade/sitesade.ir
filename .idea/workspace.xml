@@ -3,20 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="26118e6a-44bc-4966-8b4c-173e023d5681" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/blog-post-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/blog-post-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/blog-post-04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/portfolio-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/portfolio-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/portfolio-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/portfolio-04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/service-icon-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/service-icon-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/service-icon-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/service-icon-04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/slider-dec-v2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/slider-dec-v3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/slider-dec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/blog-post-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/contact-dec-v2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/contact-dec-v3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/contact-dec.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703343545279</updated>
       <workItem from="1703343547655" duration="1463000" />
+      <workItem from="1703410081023" duration="1103000" />
     </task>
     <servers />
   </component>
